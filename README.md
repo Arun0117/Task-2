@@ -24,7 +24,7 @@ To provide a basic interface for:
 - Delete student record by ID.
 - Exit the program safely.
 
-![Alt Text]()
+![Alt Text](Output)
 
 
 
