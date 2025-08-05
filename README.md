@@ -26,6 +26,4 @@ To provide a basic interface for:
 
 ---
 
-## 📁 Project Structure
 
-# Task-2
